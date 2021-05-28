@@ -2,6 +2,8 @@
  * Medium 1315. Sum of Nodes with Even-Valued Grandparent
  * https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
  *
+ * 212 ms, 38.1 MB
+ *
  * Example:
  * var ti = TreeNode(5)
  * var v = ti.`val`
